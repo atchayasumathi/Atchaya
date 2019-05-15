@@ -4,7 +4,7 @@ a=[]
 for i in range(0,n):
   s=int(input("enter a number"))
   a.append(s)
-  print(a)
+print(a)
 sum=0
 for i in range(0,k):
   sum=sum+a[i]
